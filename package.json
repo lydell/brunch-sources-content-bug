@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "devDependencies": {
+    "brunch": "^2.10.2",
+    "css-brunch": "^2.6.1",
+    "javascript-brunch": "^2.0.0",
+    "sass-brunch": "^2.9.0"
+  }
+}
